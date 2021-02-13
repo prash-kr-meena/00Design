@@ -6,3 +6,6 @@
 * [Which files in `.idea` folder should be tracked by Git?](https://stackoverflow.com/questions/43198273/which-files-in-idea-folder-should-be-tracked-by-git)
 * [How to configure `Grep Console` for Intellij](https://stackoverflow.com/questions/24430340/how-to-configure-grep-console-for-intellij)
 
+### Resource for Object Oriented Design
+
+* [oodesign.com](https://www.oodesign.com/)
