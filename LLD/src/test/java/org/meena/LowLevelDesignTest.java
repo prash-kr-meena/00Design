@@ -2,7 +2,6 @@ package org.meena;
 
 import static org.junit.Assert.assertTrue;
 
-
 import org.junit.Test;
 
 /**
@@ -13,7 +12,7 @@ public class LowLevelDesignTest {
    * Rigorous Test :-)
    */
   @Test
-  public void shouldAnswerWithTrue() {
+  public void shouldAnswer_WithTrue() {
     assertTrue(true);
   }
 }

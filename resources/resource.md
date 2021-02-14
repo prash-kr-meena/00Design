@@ -35,6 +35,8 @@
 * [google_checks.xml](https://github.com/checkstyle/checkstyle/blob/master/src/main/resources/google_checks.xml)
 * [IntelliJ IDEA code format from checkstyle configuration](https://stackoverflow.com/questions/14539313/intellij-idea-code-format-from-checkstyle-configuration)
 * [How to import checkstyle rules into Intellij IDEA code format rules](http://biercoff.com/how-to-import-checkstyle-rules-into-intellij-idea-code-format-rules/)
+* [checkstyle:check](https://maven.apache.org/plugins/maven-checkstyle-plugin/check-mojo.html) - To add checkstyle for
+  test directory as well
 
 ### Resource for Object Oriented Design
 

@@ -91,6 +91,10 @@
               <version>8.40</version>
             </dependency>
           </dependencies>
+          <configuration>
+            <includeTestResources>true</includeTestResources>
+            <includeResources>false</includeResources>
+          </configuration>
         </plugin>
 
       </plugins>
@@ -105,6 +109,7 @@
         <version>3.1.2</version>
         <configuration>
           <configLocation>resources/google_checks.xml</configLocation>
+          <includeTestSourceDirectory>true</includeTestSourceDirectory>
           <encoding>UTF-8</encoding>
           <consoleOutput>true</consoleOutput>
           <failsOnError>true</failsOnError>
