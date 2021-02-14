@@ -1,5 +1,6 @@
 ### Resources when setting up project
 
+* Using archtype : I have used `quickstart` one
 * [A `.gitignore` file suitable for development with `Java`, `Maven`, `Gradle`, `IntelliJ`, `Android Studio` on a `MacOS`](https://gist.github.com/edesdan/6bb43343740bcd54ef0f56a384a2f66f)
 * Had issues with github, as this `.git` tool was creating commits on anonymous user's behalf, <br/>
   had to add `user configuration` to the `config` file og `.git`
