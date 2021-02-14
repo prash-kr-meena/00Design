@@ -18,9 +18,22 @@
 * [CodeReview Plugin in Eclipse | SonarLint | PMD | Checkstyle](https://www.youtube.com/watch?v=WGFw1thosCg&ab_channel=ArunaVangala)
 * [CheckStyle || Maven || Configuration|| HTML Report - 1](https://www.youtube.com/watch?v=aSCUyUuPHuM&ab_channel=SlokamTechnologies)
 * [CheckStyle || Rules, Suppressions || Fixing Code Errors - 2](https://www.youtube.com/watch?v=rlLz9ftmWTY&ab_channel=SlokamTechnologies)
-* Old Video : [What is SonarQube? How to configure a maven project for Code Coverage | Tech Primers](https://www.youtube.com/watch?v=BuT1Ji0P9Ug&ab_channel=TechPrimers)
+* [What is SonarQube? How to configure a maven project for Code Coverage | Tech Primers](https://www.youtube.com/watch?v=BuT1Ji0P9Ug&ab_channel=TechPrimers)
 * [What is SonarQube?](https://www.youtube.com/watch?v=vE39Fg8pvZg&ab_channel=HenrikYllemo)
 * [SonarQube Tutorial | Installing and Configuring SonarQube | What is SonarQube | Intellipaat](https://www.youtube.com/watch?v=31igoWxauEQ&ab_channel=Intellipaat)
+* [Introduction to CheckStyle - Baeldung](https://www.baeldung.com/checkstyle-java)
+* [How to Centralize your Checkstyle Configuration with Maven](https://codeburst.io/how-to-centralize-your-checkstyle-configuration-with-maven-7575eacd7295)
+  Great Solution <br>
+  - Externalizing his own version of checkstyle
+    config [Common Checkstyle Config](https://github.com/patrickfav/checkstyle-config/)
+* [Install and Use CheckStyle for Java as an IntelliJ IDEA Plugin 2018](https://www.youtube.com/watch?v=RAC_VRj2bcM&ab_channel=EvilTester-SoftwareTesting)
+
+#### checkStyle
+
+* [Google's Java Style Checkstyle Coverage](https://checkstyle.sourceforge.io/google_style.html)
+* [google_checks.xml](https://github.com/checkstyle/checkstyle/blob/master/src/main/resources/google_checks.xml)
+* [IntelliJ IDEA code format from checkstyle configuration](https://stackoverflow.com/questions/14539313/intellij-idea-code-format-from-checkstyle-configuration)
+* [How to import checkstyle rules into Intellij IDEA code format rules](http://biercoff.com/how-to-import-checkstyle-rules-into-intellij-idea-code-format-rules/)
 
 ### Resource for Object Oriented Design
 
@@ -30,8 +43,8 @@
 ### Extra
 
 * [Subhrodip Mohanta - Github Profile](https://github.com/ohbus)
-    - Indian In Wipro
-    - Have some cool projects
-    - Banking
-    - Desing pattern
+  - Indian In Wipro
+  - Have some cool projects
+  - Banking
+  - Desing pattern
   
