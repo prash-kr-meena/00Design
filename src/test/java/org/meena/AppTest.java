@@ -1,8 +1,9 @@
 package org.meena;
 
-import org.junit.Test;
-
 import static org.junit.Assert.assertTrue;
+
+
+import org.junit.Test;
 
 
 /**
@@ -10,17 +11,17 @@ import static org.junit.Assert.assertTrue;
  */
 public class AppTest {
 
-	/**
-	 * Rigorous Test :-)
-	 */
-	@Test
-	public void shouldAnswerWithTrue ( ) {
-		assertTrue(true);
+  /**
+   * Rigorous Test :-)
+   */
+  @Test
+  public void shouldAnswerWithTrue() {
+    assertTrue(true);
 
-		System.out.println("ERROR");
-		System.out.println("DEBUG");
-		System.out.println("INFO");
-		System.out.println("FATAL");
-	}
+    System.out.println("ERROR");
+    System.out.println("DEBUG");
+    System.out.println("INFO");
+    System.out.println("FATAL");
+  }
 
 }

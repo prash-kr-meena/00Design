@@ -2,6 +2,7 @@ package org.meena;
 
 import static org.junit.Assert.assertTrue;
 
+
 import org.junit.Test;
 
 
@@ -10,12 +11,12 @@ import org.junit.Test;
  */
 public class AppTest {
 
-	/**
-	 * Rigorous Test :-)
-	 */
-	@Test
-	public void shouldAnswerWithTrue ( ) {
-		assertTrue(true);
-	}
+  /**
+   * Rigorous Test :-)
+   */
+  @Test
+  public void shouldAnswerWithTrue() {
+    assertTrue(true);
+  }
 
 }
