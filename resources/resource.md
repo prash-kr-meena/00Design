@@ -9,7 +9,8 @@
 * [Intellij IDEA Tutorial: Projects and modules overview](https://www.youtube.com/watch?v=IGgED_ihY5c&ab_channel=CraftOfProgramming)
 * [Multi-Module Project With Spring Boot | Maven | Example | Java Techie](https://www.youtube.com/watch?v=DG9B2w-N42s&ab_channel=JavaTechie)
 * [IntelliJ Workspace Tips - Multiple Repositories in One Workspace](https://www.youtube.com/watch?v=9pRf3VRXEdo&ab_channel=SpringFrameworkGuru)
-
+* [IntelliJ Workspace Tips - Multiple Repositories (microservices) in One Workspace](https://www.youtube.com/watch?v=9pRf3VRXEdo&ab_channel=SpringFrameworkGuru)
+* [How to Work with Multiple Project Repos in IntelliJ](https://www.youtube.com/watch?v=mToyuBV_ydw&ab_channel=TestOxide)
 ### Resource for Object Oriented Design
 
 * [oodesign.com](https://www.oodesign.com/)
