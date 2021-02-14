@@ -11,6 +11,7 @@
 * [IntelliJ Workspace Tips - Multiple Repositories in One Workspace](https://www.youtube.com/watch?v=9pRf3VRXEdo&ab_channel=SpringFrameworkGuru)
 * [IntelliJ Workspace Tips - Multiple Repositories (microservices) in One Workspace](https://www.youtube.com/watch?v=9pRf3VRXEdo&ab_channel=SpringFrameworkGuru)
 * [How to Work with Multiple Project Repos in IntelliJ](https://www.youtube.com/watch?v=mToyuBV_ydw&ab_channel=TestOxide)
+
 ### Resource for Object Oriented Design
 
 * [oodesign.com](https://www.oodesign.com/)
