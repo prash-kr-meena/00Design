@@ -5,6 +5,6 @@ package org.meena;
  */
 public class LowLevelDesign {
   public static void main(String[] args) {
-    System.out.println("Hello World!");
+    System.out.println("Low Level Design!");
   }
 }

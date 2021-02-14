@@ -1,9 +1,9 @@
 package org.meena;
 
-public class App {
+public class OODesign {
 
   public static void main(String[] args) {
-    System.out.println("My App");
+    System.out.println("Object Oriented Design!");
 
     System.out.println("ERROR");
     System.out.println("DEBUG");
