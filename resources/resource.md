@@ -38,6 +38,15 @@
 * [checkstyle:check](https://maven.apache.org/plugins/maven-checkstyle-plugin/check-mojo.html) - To add checkstyle for
   test directory as well
 
+#### JaCoCo
+
+* [Intro to JaCoCo - Baeldung](https://www.baeldung.com/jacoco)
+
+#### SonarQube
+
+* [Code Analysis with SonarQube](https://www.baeldung.com/sonar-qube)
+* [Configuring a Project to Exclude Certain Sonar Violations](https://www.baeldung.com/sonar-exclude-violations)
+
 ### Resource for Object Oriented Design
 
 * [oodesign.com](https://www.oodesign.com/)
