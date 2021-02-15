@@ -65,3 +65,4 @@
 * [Cant render component diagram in plantuml intllij - StackOverFlow](https://stackoverflow.com/questions/54413962/cant-render-component-diagram-in-plantuml-intllij)
 * [GraphViz - Installing](https://plantuml.com/graphviz-dot)
 * [Welcome to The Hitchhiker’s Guide to PlantUML!](https://crashedmind.github.io/PlantUMLHitchhikersGuide/)
+* [Sketch It!  - Plant UML Tool](https://plugins.jetbrains.com/plugin/10387-sketch-it-)
