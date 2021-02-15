@@ -58,7 +58,7 @@
   - Indian In Wipro
   - Have some cool projects
   - Banking
-  - Desing pattern
+  - Design pattern
 
 #### Plant UML
 
