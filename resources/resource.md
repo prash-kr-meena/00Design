@@ -67,7 +67,7 @@
 * [Welcome to The Hitchhiker’s Guide to PlantUML!](https://crashedmind.github.io/PlantUMLHitchhikersGuide/)
 * [Sketch It!  - Plant UML Tool](https://plugins.jetbrains.com/plugin/10387-sketch-it-)
 
-#### Some useful things
+#### Some Useful Things
 
 * To delete all the **.plantuml** file `find src -type f -name "*.plantuml" -delete`
 * To delete all the **.class** file `find src -type f -name "*.class" -delete`
