@@ -7,12 +7,12 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  */
-public class LowLevelDesignTest {
+public class CacheAppTest {
   /**
    * Rigorous Test :-)
    */
   @Test
-  public void shouldAnswer_WithTrue() {
+  public void shouldAnswerWithTrue() {
     assertTrue(true);
   }
 }

@@ -3,8 +3,8 @@ package org.meena;
 /**
  * Hello world!
  */
-public class LowLevelDesign {
+public class CacheApp {
   public static void main(String[] args) {
-    System.out.println("Low Level Design!");
+    System.out.println("Hello World!");
   }
 }
