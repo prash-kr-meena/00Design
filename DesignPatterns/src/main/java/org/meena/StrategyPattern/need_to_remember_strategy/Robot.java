@@ -21,10 +21,12 @@ public class Robot {
 
   public void setMoveStrategy(MoveStrategy moveStrategy) throws Exception {
     if (moveStrategy == null) {
-      throw new Exception("Invalid Move Strategey");
+      throw new Exception("Invalid Move Strategy");
     }
 
     this.moveStrategy = moveStrategy;
-    System.out.println("Move Strategy Has Been Updated");
+    System.out.println("Move Strategy Has Been Updated to "
+        + this.moveStrategy.getStrategyName()
+        + " Strategy");
   }
 }
