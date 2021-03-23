@@ -7,6 +7,6 @@ public class NormalStrategy extends MoveStrategy {
   }
 
   public void move(String name) {
-    System.out.println(name + " Robot is : Moving With" + this.strategyName);
+    System.out.println(name + " Robot is : Moving " + this.strategyName);
   }
 }

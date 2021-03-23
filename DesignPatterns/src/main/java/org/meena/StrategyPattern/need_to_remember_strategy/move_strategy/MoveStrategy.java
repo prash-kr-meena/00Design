@@ -1,5 +1,8 @@
 package org.meena.StrategyPattern.need_to_remember_strategy.move_strategy;
 
+import lombok.ToString;
+
+@ToString
 public abstract class MoveStrategy {
 
   String strategyName;

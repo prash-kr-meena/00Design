@@ -11,21 +11,29 @@ public class ExecuteStrategyPattern {
   public static void main(String[] args) throws Exception {
     MoveStrategy aggressively = new AggressiveStrategy("AGGRESSIVELY");
     MoveStrategy defensively = new DefensiveStrategy("DEFENSIVELY");
-    MoveStrategy normally = new NormalStrategy("NORMALY");
+    MoveStrategy normally = new NormalStrategy("NORMALLY");
+
+    //  Just by having @ToString annotation, at the base class prints the child class as well
+    System.out.println(aggressively);
+    System.out.println(defensively);
+    System.out.println(normally);
+    System.out.println();
+
+    // ########################################################
 
     Robot bigRobot = new Robot("Big Robot", aggressively);
     Robot R2 = new Robot("R2", normally);
     Robot george = new Robot("George v.2.1", defensively);
 
-    System.out.println("\nNew behaviours: " +
-        "\n'Big Robot' gets really scared" +
-        "\n,'George v.2.1' becomes really mad because" +
-        "it's always attacked by other robots" +
-        "\n and R2 keeps its calm\n");
+    bigRobot.move();
+    R2.move();
+    george.move();
+
+    System.out.println("\nNew behaviours: ");
 
     // You can update the strategy as well
-    bigRobot.updateMoveStrategy(aggressively);
-    george.updateMoveStrategy(aggressively);
+    bigRobot.setMoveStrategy(aggressively);
+    george.setMoveStrategy(aggressively);
 
     bigRobot.move();
     george.move();

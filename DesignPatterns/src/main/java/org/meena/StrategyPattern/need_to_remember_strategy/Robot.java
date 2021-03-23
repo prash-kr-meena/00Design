@@ -19,7 +19,7 @@ public class Robot {
     this.moveStrategy.move(this.name);
   }
 
-  public void updateMoveStrategy(MoveStrategy moveStrategy) throws Exception {
+  public void setMoveStrategy(MoveStrategy moveStrategy) throws Exception {
     if (moveStrategy == null) {
       throw new Exception("Invalid Move Strategey");
     }
